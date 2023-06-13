@@ -10,3 +10,6 @@ HTML5, CSS3, API Mercado Livre e ReactJS
 
 ## Créditos
 Projeto original de: https://www.youtube.com/@ManualdoDev
+
+## Projeto
+Versão online do projeto disponível em: https://shopping-cart-reactjs-git-main-oliveiravitor32.vercel.app/
