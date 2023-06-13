@@ -9,4 +9,4 @@ Este app possibilita a busca e listagem de produtos e adição e remoção de pr
 HTML5, CSS3, API Mercado Livre e ReactJS
 
 ## Créditos
-Projeto original de: https://www.youtube.com/@ManualdoDev - @ManualdoDev
+Projeto original de: https://www.youtube.com/@ManualdoDev
