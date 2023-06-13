@@ -1,6 +1,5 @@
 
 import React, {useState} from 'react';
-import propTypes from 'prop-types';
 import AppContext from './AppContext'
 
 function Provider( {children } ) {
@@ -29,7 +28,3 @@ function Provider( {children } ) {
 }
 
 export default Provider;
-
-Provider.propTypes = {
-  children: propTypes.any,
-}.isRequired
