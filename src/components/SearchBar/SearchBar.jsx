@@ -1,5 +1,5 @@
 import React, { useState, useContext} from "react";
-import { IoIosSearch } from "react-icons/Io"
+import { IoIosSearch } from "react-icons/io"
 
 import "./SearchBar.css"
 import fetchProducts from "../../api/fetchProducts"
