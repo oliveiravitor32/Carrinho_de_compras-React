@@ -1,5 +1,5 @@
 # [OBSOLETO] Carrinho de compras com ReactJS
-# Aviso: Este projeto não funciona mais devido a alterações na API utilizada.
+# Aviso: Este projeto não funciona mais devido a alterações na API do Mercado Livre.
 
   Desenvolvido com o canal https://www.youtube.com/@ManualdoDev, este é um projeto de um carrinho de compras construído com ReactJS utiliziando a API do Mercado Livre.
   
